@@ -1,0 +1,64 @@
+_repo: Far-from-the-Madding-Crowd_107
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hardy, Thomas
+    birthdate: 1840
+    deathdate: 1928
+    gutenberg_agent_id: '23'
+    url: http://www.gutenberg.org/2009/agents/23
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Hardy
+description: "Far from the Madding Crowd (1874) is Thomas Hardy's fourth novel and\
+  \ his first major literary success. It originally appeared anonymously as a monthly\
+  \ serial in Cornhill Magazine, where it gained a wide readership.\nThe novel is\
+  \ the first to be set in Hardy's fictional county of Wessex in rural south west\
+  \ England. It deals in themes of love, honour and betrayal, against a backdrop of\
+  \ the seemingly idyllic, but often harsh, realities of a farming community in Victorian\
+  \ England. It describes the farmer Bathsheba Everdene, her life and relationships\
+  \ - especially with her lonely neighbour William Boldwood, the faithful shepherd\
+  \ Gabriel Oak, and the thriftless soldier Sergeant Troy.\nOn publication, critical\
+  \ notices were plentiful and mostly positive. Hardy revised the text extensively\
+  \ for the 1895 edition and made further changes for the 1901 edition.\nThe novel\
+  \ was listed at number 48 on the BBC's survey The Big Read in 2003. The book finished\
+  \ 10th on the Guardian's list of greatest love stories of all time in 2007.\nThe\
+  \ novel has been dramatised several times, notably in an Oscar-nominated 1967 film\
+  \ directed by John Schlesinger.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1994-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '107'
+  wikidata: Q5642996
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Didactic fiction'
+- !lcsh 'Wessex (England) -- Fiction'
+- !lcsh 'Farm life -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcsh 'Pastoral fiction'
+- !lcsh 'Women farmers -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Far from the Madding Crowd
+url: http://www.gutenberg.org/ebooks/107
+wikipedia:
+- https://fr.wikipedia.org/wiki/Loin_de_la_foule_d%C3%A9cha%C3%AEn%C3%A9e_(roman)
+- https://ar.wikipedia.org/wiki/%D8%A8%D8%B9%D9%8A%D8%AF%D8%A7_%D8%B9%D9%86_%D8%B5%D8%AE%D8%A8_%D8%A7%D9%84%D9%86%D8%A7%D8%B3
+- https://nl.wikipedia.org/wiki/Far_from_the_Madding_Crowd_(boek)
+- https://ro.wikipedia.org/wiki/Departe_de_lumea_dezl%C4%83n%C8%9Buit%C4%83
+- https://fa.wikipedia.org/wiki/%D8%AF%D9%88%D8%B1_%D8%A7%D8%B2_%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9_%D8%AE%D8%B4%D9%85%DA%AF%DB%8C%D9%86
+- https://de.wikipedia.org/wiki/Am_gr%C3%BCnen_Rand_der_Welt
+- https://tr.wikipedia.org/wiki/%C3%87%C4%B1lg%C4%B1n_Kalabal%C4%B1ktan_Uzak
+- https://es.wikipedia.org/wiki/Lejos_del_mundanal_ruido
+- https://bg.wikipedia.org/wiki/%D0%94%D0%B0%D0%BB%D0%B5%D1%87_%D0%BE%D1%82_%D0%B1%D0%B5%D0%B7%D1%83%D0%BC%D0%BD%D0%B0%D1%82%D0%B0_%D1%82%D1%8A%D0%BB%D0%BF%D0%B0
+- https://vi.wikipedia.org/wiki/Xa_%C4%91%C3%A1m_%C4%91%C3%B4ng_%C4%91i%C3%AAn_lo%E1%BA%A1n
+- https://en.wikipedia.org/wiki/Far_from_the_Madding_Crowd
+- https://sv.wikipedia.org/wiki/Fj%C3%A4rran_fr%C3%A5n_vimlets_yra_(roman)
+- https://it.wikipedia.org/wiki/Via_dalla_pazza_folla
+- https://sh.wikipedia.org/wiki/Far_from_the_Madding_Crowd
+- https://hu.wikipedia.org/wiki/Far_from_the_Madding_Crowd
+- https://ko.wikipedia.org/wiki/%EC%84%B1%EB%82%9C_%EA%B5%B0%EC%A4%91%EC%9C%BC%EB%A1%9C%EB%B6%80%ED%84%B0_%EB%A9%80%EB%A6%AC
+- https://he.wikipedia.org/wiki/%D7%94%D7%A8%D7%97%D7%A7_%D7%9E%D7%94%D7%9E%D7%95%D7%9F_%D7%9E%D7%AA%D7%94%D7%95%D7%9C%D7%9C
